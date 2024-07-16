@@ -1,0 +1,63 @@
+body{
+    background-color: lavender;
+}
+
+li{
+    color: rgb(37, 31, 31);
+    display: inline-block;
+    padding: 0px 100px;
+    margin-top: 1%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+div{
+    border: 1px solid;
+    width: 940px;
+    height: 420px;
+    margin-left: 10%;
+    margin-top: 0%;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 4%;
+    font-size: 310%;
+}
+
+p{
+    margin-left: 4%;
+    font-size: 150%;
+}
+h4{
+    margin-top: 12%;
+    margin-left: 2%;
+    
+}
+
+.one{
+    width: 5%;
+    height: 50px;
+    margin-left: 0%;
+   
+}
+.two{
+    width: 5%;
+    height: 50px;
+    margin-left: 3%;
+}
+
+img{
+    width: 5%;
+    height: 50px;
+    margin-bottom: 1%;
+}
+
+.the{
+    margin-left: 59%;
+    width: 40%;
+    height: 380px;
+    margin-top: -50%;
+
+}
